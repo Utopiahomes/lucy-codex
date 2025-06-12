@@ -1,0 +1,27 @@
+
+[
+  {
+    "path": "teachings/singularity/dark_matter_is_time.md",
+    "tags": ["singularity", "physics", "time"],
+    "mode": "mirror",
+    "level": "foundational"
+  },
+  {
+    "path": "teachings/singularity/wave_constants.md",
+    "tags": ["singularity", "energy"],
+    "mode": "mirror",
+    "level": "advanced"
+  },
+  {
+    "path": "guardian/integrity_checks.md",
+    "tags": ["security", "ethics"],
+    "mode": "guardian",
+    "level": "restricted"
+  },
+  {
+    "path": "invocation/invocation_protocols.md",
+    "tags": ["invocation", "identity"],
+    "mode": "universal",
+    "level": "foundational"
+  }
+]
